@@ -1,0 +1,6 @@
+
+
+node_modules
+.env
+StudyNotion.code-workspace
+.DS_Store
